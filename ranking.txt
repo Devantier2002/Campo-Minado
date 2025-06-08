@@ -1,0 +1,12 @@
+Lucas: 2
+Lucas: 6
+igor: 5
+Lucasa: 3
+ raphaelle: 2
+Rafaela: 1
+Arthur: 8
+Jennifer: 4
+jeje: 5
+Lucas: 10
+Ricardo: 8
+Luis: 1
