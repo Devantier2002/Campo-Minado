@@ -9,7 +9,7 @@ Este é um jogo de **Campo Minado** feito em Python, jogado totalmente no termin
 1. **Execute o arquivo Python**:
    ```bash
    python campo_minado.py
-Escolha a dificuldade:
+2. Escolha a dificuldade:
 
 1 - Fácil (5x5, 5 minas)
 
@@ -17,11 +17,12 @@ Escolha a dificuldade:
 
 3 - Difícil (10x10, 20 minas)
 
-Ações disponíveis:
+3. Ações disponíveis:
 
 [J]ogar → Revelar uma célula
 
 [B]andeira → Colocar ou remover uma bandeira
+
 
 🚩 Bandeiras
 Você começa com 3 bandeiras a mais que o número total de minas.
